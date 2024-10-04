@@ -1,0 +1,11 @@
+PassengerId,Survived,Pclass,Name,Ticket,Fare,Cabin,Embarked
+1,0,3,"Braund, Mr. Owen Harris",A/5 21171,7.25,,S
+2,1,1,"Cumings, Mrs. John Bradley (Florence Briggs Th...)",PC 17599,71.2833,C85,C
+3,1,3,"Heikkinen, Miss. Laina",STON/O2. 3101282,7.925,,S
+4,1,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",113803,53.1,C123,S
+5,0,3,"Allen, Mr. William Henry",373450,8.05,,S
+887,0,2,"Montvila, Rev. Juozas",211536,13.0,,S
+888,1,1,"Graham, Miss. Margaret Edith",112053,30.0,B42,S
+889,0,3,"Johnston, Miss. Catherine Helen ""Carrie""",W./C. 6607,23.45,,S
+890,1,1,"Behr, Mr. Karl Howell",111369,30.0,C148,C
+891,0,3,"Dooley, Mr. Patrick",370376,7.75,,Q
